@@ -1,3 +1,14 @@
+---
+title: Redrob AI Ranker
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.45.1"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
 # 🚀 Redrob AI Candidate Ranker
 
 An AI-powered candidate ranking system built for the **Redrob AI Hiring Challenge**.
